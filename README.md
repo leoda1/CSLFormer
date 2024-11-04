@@ -1,5 +1,5 @@
-# UTFormer
-A UAV Sensing-based Triple Attention Transformer Network for Semantic Segmentation
+# CSLFormer
+Channel Selection and Local Attention Transformer Model for Semantic Segmentation on UAV Remote Sensing Scene
 ---
 
 ### 目录
